@@ -1,16 +1,12 @@
----
-title: README
-date: 2024-08-17 01:57
-author: II-777
-tags: goit react hw-05
----
+# Movies
 
-# goit-react-hw-05
+Search movies, open a details page, and read the cast and reviews. Routing is handled with React Router. GoIT React homework 5.
 
-## TMDB API Docs
-- [TMDB API tending movies](https://developer.themoviedb.org/reference/trending-movies)
-- [TMDB API search movie](https://developer.themoviedb.org/reference/search-movie)
-- [TMDB API movie details](https://developer.themoviedb.org/reference/movie-details)
-- [TMDB API movie credits](https://developer.themoviedb.org/reference/movie-credits)
-- [TMDB API movie reviews](https://developer.themoviedb.org/reference/movie-reviews)
-- [TMDB API genre movie list](https://developer.themoviedb.org/reference/genre-movie-list)
+**Stack:** React, React Router, Axios
+
+## Run
+
+```bash
+npm install
+npm run dev
+```
