@@ -6,10 +6,6 @@ Search movies, open a details page, and read the cast and reviews. Routing is ha
 
 **Stack:** React, React Router, Axios
 
-## Live
-
-https://goit-react-hw-05-three-rho.vercel.app/
-
 ## Run
 
 ```bash
